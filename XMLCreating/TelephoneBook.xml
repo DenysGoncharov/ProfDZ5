@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<MyContacts>
+  <Contact>
+    <Name TelephoneNumber="12345678798">SomeName</Name>
+    <Name TelephoneNumber="34323243222">SomeName1</Name>
+    <Name TelephoneNumber="98745612322">SomeName2</Name>
+    <Name TelephoneNumber="12345678798">SomeName3</Name>
+  </Contact>
+</MyContacts>
