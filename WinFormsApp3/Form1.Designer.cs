@@ -51,7 +51,7 @@ namespace WinFormsApp3
             this.buttonColorChoose.TabIndex = 1;
             this.buttonColorChoose.Text = "ChooseColor";
             this.buttonColorChoose.UseVisualStyleBackColor = true;
-            this.buttonColorChoose.Click += new System.EventHandler(this.button1_Click);
+            this.buttonColorChoose.Click += new System.EventHandler(OnClickChooseColor);
             // 
             // button2
             // 

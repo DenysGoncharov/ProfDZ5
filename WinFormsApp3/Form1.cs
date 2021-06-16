@@ -11,7 +11,7 @@ namespace WinFormsApp3
 {
     public partial class Form1 : Form
     {
-        private Button button1;
+        //private Button buttonColorChoose;
         private ColorDialog chooseColorDialog = new ColorDialog();
         public Form1()
         {
